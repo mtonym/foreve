@@ -6,3 +6,5 @@ Fast Training For Eve R
 2020/11/01: Cmp method in python3 to do sort with secondary priority key.
 
 2020/11/06: Leetcode-545 Find boundary of Binary Tree.
+
+2020/11/30: [Microsft Doc interview] Json Serialization.
